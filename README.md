@@ -1,2 +1,2 @@
 # jobsearchgcp
-microservice demo service 1
+microservice demo service 1 with GCP
